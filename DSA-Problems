@@ -43,22 +43,25 @@ Total problems solved: 14 ✅
 
 🟢 Day 2 – DSA Practice (Arrays)
 
-Focused on array manipulation problems, especially two-pointer and rotation patterns commonly asked in interviews.
+Focused on array manipulation problems, especially two-pointer and rotation patterns that are frequently asked in technical interviews.
+Total Problems Solved: 5
 
 📘 Topics Covered
 🔹 1️⃣ Remove Duplicates from Sorted Array
 
-Problem: Remove duplicates in-place from a sorted array
+Problem:
+Remove duplicates in-place from a sorted array.
 
-Approach: Two Pointers
+Approach:
+Two Pointer Technique
 
-Key Idea: Maintain a slow pointer for unique elements
+Key Idea:
+Use a slow pointer to track unique elements and overwrite duplicates.
 
 Time Complexity: O(n)
-
 Space Complexity: O(1)
 
-Practice Platforms
+Practice Platforms:
 
 LeetCode: 26 – Remove Duplicates from Sorted Array
 
@@ -70,10 +73,11 @@ Equalize the Array
 
 🔹 2️⃣ Left Rotate Array by D
 
-Problem: Rotate an array to the left by D positions
+Problem:
+Rotate an array to the left by D positions.
 
 Key Insight:
-Left rotation can be derived from right rotation logic
+Left rotation can be derived from right rotation logic.
 
 Common Techniques:
 
@@ -83,7 +87,7 @@ Modulo index calculation
 
 Time Complexity: O(n)
 
-Practice Platforms
+Practice Platforms:
 
 LeetCode: 189 – Rotate Array (invert logic for left rotation)
 
@@ -91,22 +95,30 @@ HackerRank: Left Rotation
 
 🔹 3️⃣ Right Rotate Array
 
-Problem: Rotate an array to the right by D positions
+Problem:
+Rotate an array to the right by D positions.
 
 Approach:
 
-Reverse full array
+Reverse entire array
 
 Reverse first D elements
 
 Reverse remaining elements
 
 Time Complexity: O(n)
-
 Space Complexity: O(1)
 
-Practice Platforms
+Practice Platforms:
 
 LeetCode: 189 – Rotate Array
 
 HackerRank: Circular Array Rotation
+
+✅ Day 2 Takeaways
+
+Mastered two-pointer pattern
+
+Understood left & right rotation equivalence
+
+Learned reversal algorithm for optimal rotations
