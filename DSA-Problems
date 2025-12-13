@@ -1,37 +1,37 @@
 🟢 DSA – Day 1: Array Practice – Concepts & Problem Solving
 
-Total problems solved: 14 ✅
+Total problems solved: 7 ✅
 
 ### **1️⃣ Largest Element in Array**
 **Concept:** Single pass, find maximum  
 **Problems:**  
-1. [LeetCode 1299 — Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) ✅  
-2. [LeetCode 53 — Maximum Subarray (Kadane, max tracking)](https://leetcode.com/problems/maximum-subarray/) ✅  
-3. [HackerRank — Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) ✅  
-4. [HackerRank — Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) ✅  
-5. [Striver A2Z DSA Sheet: Largest element in array](https://takeuforward.org/data-structure/find-largest-element-in-array/) ✅  
+1. LeetCode 1299 — Replace Elements with Greatest Element on Right Side (https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) ✅  
+2. LeetCode 53 — Maximum Subarray (Kadane, max tracking) (https://leetcode.com/problems/maximum-subarray/) ✅  
+3. HackerRank — Birthday Cake Candles (https://www.hackerrank.com/challenges/birthday-cake-candles/problem) ✅  
+4. HackerRank — Mini-Max Sum (https://www.hackerrank.com/challenges/mini-max-sum/problem) ✅  
+5. Striver A2Z DSA Sheet: Largest element in array (https://takeuforward.org/data-structure/find-largest-element-in-array/) ✅  
 
 ---
 
 ### **2️⃣ Second Largest Element in Array**
 **Concept:** Track first and second maximum in one pass  
 **Problems:**  
-1. [LeetCode 414 — Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) ✅  
-2. [LeetCode 628 — Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) ✅  
-3. [HackerRank — Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) ✅  
-4. [HackerRank — Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) ✅  
-5. [Striver A2Z DSA Sheet: Second largest element](https://takeuforward.org/data-structure/find-second-largest-element-in-array/) ✅  
+1. LeetCode 414 — Third Maximum Number (https://leetcode.com/problems/third-maximum-number/) ✅  
+2. LeetCode 628 — Maximum Product of Three Numbers (https://leetcode.com/problems/maximum-product-of-three-numbers/) ✅  
+3. HackerRank — Mini-Max Sum (https://www.hackerrank.com/challenges/mini-max-sum/problem) ✅  
+4. HackerRank — Compare the Triplets(https://www.hackerrank.com/challenges/compare-the-triplets/problem) ✅  
+5. Striver A2Z DSA Sheet: Second largest element (https://takeuforward.org/data-structure/find-second-largest-element-in-array/) ✅  
 
 ---
 
 ### **3️⃣ Check if Array is Sorted**
 **Concept:** Verify non-decreasing or mountain pattern  
 **Problems:**  
-1. [LeetCode 941 — Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) ✅  
-2. [LeetCode 665 — Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) ✅  
-3. [HackerRank — Almost Sorted (Medium/Hard)](https://www.hackerrank.com/challenges/almost-sorted/problem) ✅  
-4. [HackerRank — Bubble Sort logic check](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) ✅  
-5. [Striver A2Z DSA Sheet: Check if sorted](https://takeuforward.org/data-structure/check-if-array-is-sorted-or-not/) ✅  
+1. LeetCode 941 — Valid Mountain Array (https://leetcode.com/problems/valid-mountain-array/) ✅  
+2. LeetCode 665 — Non-decreasing Array (https://leetcode.com/problems/non-decreasing-array/) ✅  
+3. HackerRank — Almost Sorted (Medium/Hard) (https://www.hackerrank.com/challenges/almost-sorted/problem) ✅  
+4. HackerRank — Bubble Sort logic check (https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) ✅  
+5. Striver A2Z DSA Sheet: Check if sorted(https://takeuforward.org/data-structure/check-if-array-is-sorted-or-not/) ✅  
 
 ⏱ Time Spent: ~2–3 hours
 📊 Difficulty: Easy → Medium
@@ -41,84 +41,31 @@ Total problems solved: 14 ✅
 - Practiced single-pass optimizations
 - Improved understanding of sorted and mountain array patterns
 
-🟢 Day 2 – DSA Practice (Arrays)
+🟢 DSA – Day 2: Array Practice – Rotation & Two Pointer Patterns
 
-Focused on array manipulation problems, especially two-pointer and rotation patterns that are frequently asked in technical interviews.
-Total Problems Solved: 5
+Total problems solved: 7 ✅
 
-📘 Topics Covered
-🔹 1️⃣ Remove Duplicates from Sorted Array
+1️⃣ Remove Duplicates from Sorted Array
+Concept: Two-pointer technique, in-place modification
+Problems:
+1.LeetCode 26 — Remove Duplicates from Sorted Array✅ link:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+2.HackerRank — Sparse Arrays✅
+3.HackerRank — Equalize the Array✅
+2️⃣ Left Rotate Array by D
+Concept: Rotation logic, index calculation, reversal technique
+Problems:
+1.HackerRank — Left Rotation✅
+2.LeetCode 189 — Rotate Array (invert logic for left rotation)✅
+3️⃣ Right Rotate Array
+Concept: Reversal algorithm, modulo optimization
+Problems:
+1.LeetCode 189 — Rotate Array✅
+2.HackerRank — Circular Array Rotation✅
 
-Problem:
-Remove duplicates in-place from a sorted array.
+⏱ Time Spent: ~2 hours
+📊 Difficulty: Easy → Medium
 
-Approach:
-Two Pointer Technique
-
-Key Idea:
-Use a slow pointer to track unique elements and overwrite duplicates.
-
-Time Complexity: O(n)
-Space Complexity: O(1)
-
-Practice Platforms:
-
-LeetCode: 26 – Remove Duplicates from Sorted Array
-
-HackerRank (similar patterns):
-
-Sparse Arrays
-
-Equalize the Array
-
-🔹 2️⃣ Left Rotate Array by D
-
-Problem:
-Rotate an array to the left by D positions.
-
-Key Insight:
-Left rotation can be derived from right rotation logic.
-
-Common Techniques:
-
-Reversal method
-
-Modulo index calculation
-
-Time Complexity: O(n)
-
-Practice Platforms:
-
-LeetCode: 189 – Rotate Array (invert logic for left rotation)
-
-HackerRank: Left Rotation
-
-🔹 3️⃣ Right Rotate Array
-
-Problem:
-Rotate an array to the right by D positions.
-
-Approach:
-
-Reverse entire array
-
-Reverse first D elements
-
-Reverse remaining elements
-
-Time Complexity: O(n)
-Space Complexity: O(1)
-
-Practice Platforms:
-
-LeetCode: 189 – Rotate Array
-
-HackerRank: Circular Array Rotation
-
-✅ Day 2 Takeaways
-
+🎯 Day 2 Outcome
 Mastered two-pointer pattern
-
 Understood left & right rotation equivalence
-
-Learned reversal algorithm for optimal rotations
+Learned reversal algorithm for optimal array rotation
