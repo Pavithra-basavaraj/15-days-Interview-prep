@@ -1,4 +1,4 @@
-# DSA – Day 1: Array Practice – Concepts & Problem Solving
+🟢 DSA – Day 1: Array Practice – Concepts & Problem Solving
 
 Total problems solved: 14 ✅
 
@@ -40,3 +40,73 @@ Total problems solved: 14 ✅
 - Strengthened array traversal and max-element tracking logic
 - Practiced single-pass optimizations
 - Improved understanding of sorted and mountain array patterns
+
+🟢 Day 2 – DSA Practice (Arrays)
+
+Focused on array manipulation problems, especially two-pointer and rotation patterns commonly asked in interviews.
+
+📘 Topics Covered
+🔹 1️⃣ Remove Duplicates from Sorted Array
+
+Problem: Remove duplicates in-place from a sorted array
+
+Approach: Two Pointers
+
+Key Idea: Maintain a slow pointer for unique elements
+
+Time Complexity: O(n)
+
+Space Complexity: O(1)
+
+Practice Platforms
+
+LeetCode: 26 – Remove Duplicates from Sorted Array
+
+HackerRank (similar patterns):
+
+Sparse Arrays
+
+Equalize the Array
+
+🔹 2️⃣ Left Rotate Array by D
+
+Problem: Rotate an array to the left by D positions
+
+Key Insight:
+Left rotation can be derived from right rotation logic
+
+Common Techniques:
+
+Reversal method
+
+Modulo index calculation
+
+Time Complexity: O(n)
+
+Practice Platforms
+
+LeetCode: 189 – Rotate Array (invert logic for left rotation)
+
+HackerRank: Left Rotation
+
+🔹 3️⃣ Right Rotate Array
+
+Problem: Rotate an array to the right by D positions
+
+Approach:
+
+Reverse full array
+
+Reverse first D elements
+
+Reverse remaining elements
+
+Time Complexity: O(n)
+
+Space Complexity: O(1)
+
+Practice Platforms
+
+LeetCode: 189 – Rotate Array
+
+HackerRank: Circular Array Rotation
