@@ -46,26 +46,26 @@ Total problems solved: 7 ✅
 Total problems solved: 7 ✅
 
 1️⃣ Remove Duplicates from Sorted Array
-Concept: Two-pointer technique, in-place modification
+Concept: Two-pointer technique, in‑place modification
 Problems:
-1.LeetCode 26 — Remove Duplicates from Sorted Array✅ link:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
-2.HackerRank — Sparse Arrays✅
-3.HackerRank — Equalize the Array✅
+1.LeetCode 26 — Remove Duplicates from Sorted Array✅ link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+2.HackerRank — Sparse Arrays✅ link: https://www.hackerrank.com/challenges/sparse-arrays/problem
+3.HackerRank — Equalize the Array✅ link: https://www.hackerrank.com/challenges/equalize-the-array/problem
+
 2️⃣ Left Rotate Array by D
 Concept: Rotation logic, index calculation, reversal technique
 Problems:
-1.HackerRank — Left Rotation✅
-2.LeetCode 189 — Rotate Array (invert logic for left rotation)✅
+1.HackerRank — Left Rotation✅ link: https://www.hackerrank.com/challenges/array-left-rotation/problem
+2.LeetCode 189 — Rotate Array (invert logic for left rotation)✅ link: https://leetcode.com/problems/rotate-array/
+
 3️⃣ Right Rotate Array
 Concept: Reversal algorithm, modulo optimization
 Problems:
-1.LeetCode 189 — Rotate Array✅
-2.HackerRank — Circular Array Rotation✅
-
-⏱ Time Spent: ~2 hours
-📊 Difficulty: Easy → Medium
+1.LeetCode 189 — Rotate Array✅ link: https://leetcode.com/problems/rotate-array/
+2.HackerRank — Circular Array Rotation✅ link: https://www.hackerrank.com/challenges/circular-array-rotation/problem
 
 🎯 Day 2 Outcome
-Mastered two-pointer pattern
-Understood left & right rotation equivalence
-Learned reversal algorithm for optimal array rotation
+- Mastered two-pointer pattern for array problems
+- Understood left & right rotation equivalence
+- Learned reversal algorithm for optimal in-place array rotations
+- Strengthened problem-solving speed on common array interview questions
