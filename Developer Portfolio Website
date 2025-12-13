@@ -179,4 +179,51 @@ Web Developer | Frontend Developer | Aspiring Full-Stack Developer
 - Researching existing portfolios helps align the project with recruiter expectations.  
 - Early planning accelerates development and reduces rework.
 
+# Developer Portfolio Website – Day 2 Progress
+
+## 📅 Day 2: SDLC Phase – Planning
+
+**Focus:** Finalizing the technical approach, defining milestones, and creating a clear execution plan before starting development.
+
+---
+
+### 🔹 Activities & Achievements
+
+- **Tech Stack Finalization:**  
+  Confirmed the final technology stack for the project:
+  - **Backend:** Java, Spring Boot, Spring MVC  
+  - **Frontend:** Thymeleaf, HTML, CSS  
+  - **Styling & Responsiveness:** Bootstrap 5  
+  - **Database:** MySQL (for contact form data)  
+
+- **Project Module Breakdown:**  
+  Defined the core modules of the portfolio website:
+  - Home & About Me  
+  - Skills & Tech Stack  
+  - Projects (with GitHub links)  
+  - Resume Download  
+  - Contact Form  
+
+- **Architecture Planning:**  
+  Decided to follow the **MVC (Model–View–Controller)** architecture to ensure:
+  - Clear separation of concerns  
+  - Maintainable and scalable code structure  
+  - Clean integration between backend and frontend  
+
+- **Milestone & Timeline Planning:**  
+  Created a day-wise implementation plan for:
+  - System Design (HLD & LLD)  
+  - Backend and frontend development  
+  - Testing and deployment  
+
+- **Deployment Strategy Planning:**  
+  Researched deployment options and planned to deploy the application on a production-ready platform after testing.
+
+---
+
+### 🔹 Key Learnings
+
+- Planning before coding prevents architectural mistakes and rework.  
+- Clear module definition simplifies implementation and testing.  
+- A well-defined SDLC roadmap helps track progress and maintain consistency.
 
