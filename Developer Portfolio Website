@@ -1,0 +1,183 @@
+# Developer Portfolio Website – Java & Spring Boot
+
+## 📌 Project Overview
+This project is a **fully functional and responsive developer portfolio website**
+built using **Java, Spring Boot, Thymeleaf, and Bootstrap 5**.
+
+The portfolio is designed to showcase technical skills, real-world projects,
+and GitHub work in a **recruiter-friendly and professional manner**.
+
+The project strictly follows the **Software Development Life Cycle (SDLC)**,
+simulating real-world engineering practices.
+
+---
+
+## 🎯 Project Objectives
+- Build a professional portfolio for Java developers
+- Clearly showcase skills, projects, and technical expertise
+- Provide easy access to GitHub, resume, and contact details
+- Apply SDLC concepts in a real-world project
+- Create a clean, responsive, and content-focused UI
+
+---
+
+## 👥 Target Audience
+- Recruiters
+- Hiring managers
+- Technical interviewers
+- Java developers and students
+
+---
+
+## 🧩 Planned Features
+- Home / About Me section
+- Skills section (technical stack)
+- Projects section with GitHub links
+- Resume download
+- Contact form
+- Responsive UI using Bootstrap 5
+
+---
+
+## 🛠 Tech Stack
+### Backend
+- Java
+- Spring Boot
+- Spring MVC
+
+### Frontend
+- Thymeleaf
+- HTML5
+- CSS3
+- Bootstrap 5
+
+### Database
+- MySQL (for contact form messages)
+
+### Tools
+- Git & GitHub
+- IntelliJ IDEA
+- Maven
+
+---
+
+## 🏗 System Architecture
+The project follows the *MVC (Model–View–Controller)* architecture:
+
+- *Controller*: Handles HTTP requests
+- *Service*: Business logic
+- *Repository*: Data access layer
+- *View*: Thymeleaf templates
+
+---
+
+## 🔁 SDLC-Based Development Plan (15 Days)
+
+### Phase 1: Requirement Analysis
+- Research real-world portfolios
+- Identify pain points
+- Define functional & non-functional requirements
+
+### Phase 2: Planning
+- Finalize tech stack
+- Create 15-day roadmap
+- Decide deployment strategy
+
+### Phase 3: System Design
+- High-Level Design (Architecture)
+- Low-Level Design (Entities, controllers)
+
+### Phase 4: Development
+- Spring Boot project setup
+- UI design with Bootstrap
+- Backend integration using Thymeleaf
+- Implement portfolio modules
+
+### Phase 5: Testing
+- Functional testing
+- UI & responsiveness testing
+
+### Phase 6: Deployment
+- Deploy application to production server
+
+### Phase 7: Maintenance
+- Bug fixes
+- UI improvements
+- Content updates
+
+---
+
+## 📅 Project Status
+- **Current Phase:** Requirement Analysis & Planning
+- **Day:** 1 / 15
+- **Status:** In Progress
+---
+
+## 🚀 Future Enhancements
+- Admin dashboard
+- Authentication
+- Project filtering
+- SEO optimization
+
+---
+
+## 📎 License
+This project is open-source and free to use for learning and personal portfolio purposes.
+
+---
+## 👩‍💻 About Me
+**Pavithra SB**  
+Web Developer | Frontend Developer | Aspiring Full-Stack Developer
+## 📅 Day-Wise Progress (15-Day Plan)
+
+# Developer Portfolio Website – Day 1 Progress
+
+## 📅 Day 1: Requirement Analysis & Research
+
+**Focus:** Understanding project goals, identifying features, and planning the development roadmap for the Developer Portfolio Website.
+
+---
+
+### 🔹 Activities & Achievements
+
+- **Project Goal Definition:**  
+  Clarified the purpose of the portfolio website — showcase skills, projects, and GitHub contributions in a recruiter-friendly way.
+
+- **Pain Points Research:**  
+  Analyzed existing portfolios to find common gaps:
+  - Lack of real-world projects
+  - Poor UI/UX
+  - Missing tech stack or skill information
+
+- **Feature Identification:**  
+  Listed key features to include:
+  - Home, About, Projects, and Contact sections
+  - Responsive design using Bootstrap
+  - GitHub integration to display repositories
+  - Contact form and social media links
+
+- **Tech Stack Decision:**  
+  Chose technologies for development:
+  - **Backend:** Java + Spring Boot
+  - **Frontend:** HTML, CSS, JavaScript
+  - **Styling & Responsiveness:** Bootstrap 5
+
+- **SDLC Roadmap Creation:**  
+  Drafted a **15-day plan** covering:
+  - Requirement Analysis & Planning
+  - System Design
+  - Backend & Frontend Implementation
+  - Testing & Deployment
+
+- **Audience Research:**  
+  Researched and validated the target audience to ensure features and content meet recruiter and hiring manager expectations.
+
+---
+
+### 🔹 Key Learnings
+
+- Requirement analysis is essential to define project scope and prevent scope creep.  
+- Researching existing portfolios helps align the project with recruiter expectations.  
+- Early planning accelerates development and reduces rework.
+
+
