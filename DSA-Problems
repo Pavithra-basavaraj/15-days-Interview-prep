@@ -72,7 +72,7 @@ Problems:
 
 # 📘 Day-3 DSA Practice – Arrays
 
-The practice emphasizes **pattern recognition, logical thinking, and interview-relevant approaches**.
+Total problems solved: 7
 
 ## 📌 Topics & Patterns Covered
 
@@ -80,21 +80,30 @@ The practice emphasizes **pattern recognition, logical thinking, and interview-r
 - Linear Search and element positioning
 - Array rearrangement and shifting logic
 
+## 🧩 Problems Practiced
+1.- Move Zeroes  
+  Link: https://leetcode.com/problems/move-zeroes/
+2.- Equalize the Array  
+  Link: https://www.hackerrank.com/challenges/equality-in-a-array
+3.- Array Manipulation  
+  Link: https://www.hackerrank.com/challenges/crush
+4.- Linear Search  
+  Link: https://leetcode.com/problems/linear-search/
+5.- Search Insert Position  
+  Link: https://leetcode.com/problems/search-insert-position/
+6.- Binary Search  
+  Link: https://leetcode.com/problems/binary-search/
+
 ---
 
-## 🧩 Problems Practiced
+## 🔗 Practice Platforms
 
-- Move Zeroes (LeetCode 283)
-- Equalize the Array (HackerRank – related logic)
-- Array Manipulation (rearranging patterns)
-- Linear Search
-- Search Insert Position (LeetCode 35)
-- Binary Search basics (LeetCode 704 – optimized approach)
+- **LeetCode:** https://leetcode.com/u/pavithrabasavaraj/ 
+- **HackerRank:** https://www.hackerrank.com/profile/pavithrasbasava1
 
 ---
 
 ## 🎯 Learning Focus
-
 - Understanding array-based patterns
 - Applying two-pointer techniques
 - Improving time and space efficiency
