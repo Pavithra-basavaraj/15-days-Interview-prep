@@ -69,3 +69,33 @@ Problems:
 - Understood left & right rotation equivalence
 - Learned reversal algorithm for optimal in-place array rotations
 - Strengthened problem-solving speed on common array interview questions
+
+# 📘 Day-3 DSA Practice – Arrays
+
+The practice emphasizes **pattern recognition, logical thinking, and interview-relevant approaches**.
+
+## 📌 Topics & Patterns Covered
+
+- Move Zeroes to End (Two-Pointer – Stable approach)
+- Linear Search and element positioning
+- Array rearrangement and shifting logic
+
+---
+
+## 🧩 Problems Practiced
+
+- Move Zeroes (LeetCode 283)
+- Equalize the Array (HackerRank – related logic)
+- Array Manipulation (rearranging patterns)
+- Linear Search
+- Search Insert Position (LeetCode 35)
+- Binary Search basics (LeetCode 704 – optimized approach)
+
+---
+
+## 🎯 Learning Focus
+
+- Understanding array-based patterns
+- Applying two-pointer techniques
+- Improving time and space efficiency
+- Building confidence for technical interviews
