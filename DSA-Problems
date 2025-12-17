@@ -40,7 +40,7 @@ Total problems solved: 7 ✅
 - Strengthened array traversal and max-element tracking logic
 - Practiced single-pass optimizations
 - Improved understanding of sorted and mountain array patterns
-
+-------------------------------------------------------------------DAY-2-------------------------------------
 🟢 DSA – Day 2: Array Practice – Rotation & Two Pointer Patterns
 
 Total problems solved: 7 ✅
@@ -69,7 +69,7 @@ Problems:
 - Understood left & right rotation equivalence
 - Learned reversal algorithm for optimal in-place array rotations
 - Strengthened problem-solving speed on common array interview questions
-
+----------------------------------------------------------------DAY-3-----------------------------------
 # 📘 Day-3 DSA Practice – Arrays
 
 Total problems solved: 7
@@ -108,3 +108,69 @@ Total problems solved: 7
 - Applying two-pointer techniques
 - Improving time and space efficiency
 - Building confidence for technical interviews
+-----------------------------------------------------------DAY-4------------------------------------
+📘 DSA – Day 4: Array Practice – Concepts & Problem Solving
+
+This section focuses on pattern-based problem solving, emphasizing logic, optimization, and interview readiness rather than memorizing solutions.
+
+🧩 Problems Practiced (With Links)
+🟢 Missing Number (0…N)
+Pattern: XOR / Mathematical Sum
+LeetCode:
+-Missing Number (268)
+Link:https://leetcode.com/problems/missing-number/
+
+-HackerRank (Related Patterns):
+
+-Lonely Integer
+Link:https://www.hackerrank.com/challenges/lonely-integer/problem
+
+_Sherlock and Array
+Link:https://www.hackerrank.com/challenges/sherlock-and-array/problem
+
+🟢 Maximum Consecutive Ones
+Pattern: Sliding Window
+LeetCode:
+-Max Consecutive Ones (485)
+Link:https://leetcode.com/problems/max-consecutive-ones/
+
+-Max Consecutive Ones II (487 – Follow-up)
+Link:https://leetcode.com/problems/max-consecutive-ones-ii/
+
+-HackerRank (Related Patterns):
+
+-Picking Numbers
+Link:https://www.hackerrank.com/challenges/picking-numbers/problem
+
+The Hurdle Race
+https://www.hackerrank.com/challenges/the-hurdle-race/problem
+
+🟢 Find the Number That Appears Once
+Pattern: XOR
+LeetCode:
+-Single Number (136)
+Link:https://leetcode.com/problems/single-number/
+
+-Single Number II (137)
+Link:https://leetcode.com/problems/single-number-ii/
+
+🟢 Additional Array & Searching Problems
+-Move Zeroes (Two Pointer – Stable):
+Link-https://leetcode.com/problems/move-zeroes/
+
+-Search Insert Position (Binary Search):
+Link:https://leetcode.com/problems/search-insert-position/
+
+-Binary Search (Optimized Approach)
+Link:https://leetcode.com/problems/binary-search/
+
+🎯 Learning Objective
+Identify and apply reusable problem-solving patterns
+Write optimized and readable solutions
+Build confidence for technical interviews
+Strengthen core algorithmic thinking
+
+📌 Platforms Used
+-LeetCode:https://leetcode.com/u/pavithrabasavaraj/ 
+-HackerRank:https://www.hackerrank.com/profile/pavithrasbasava1
+
