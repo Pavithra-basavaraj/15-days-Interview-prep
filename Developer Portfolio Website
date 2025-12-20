@@ -264,4 +264,34 @@ This project is a **personal portfolio website** built following **SDLC methodol
 - Figma Design: [Figma Link](https://www.figma.com/design/sRWWkEOQqB3Lgwmboc076M/Personal-Portfolio-Pro4-?node-id=587-638&p=f&t=CiiEIO8XbkpFPChl-0)
 ---
 
+-----------------------------------------------------------DAY-5------------------------------------------
+## 🎨 Project Work – Personal Portfolio (SDLC Phase 3)
 
+### ✔ System Design Completed
+- Designed complete portfolio UI using **Figma**
+- Structured pages:
+  - Home
+  - About
+  - Projects
+  - Skills
+  - Learning
+  - Education
+  - Contact
+- Focused on:
+  - UI hierarchy
+  - Spacing & consistency
+  - Recruiter-friendly layout
+- Prepared designs for frontend implementation using **HTML, CSS & React**
+
+🎯 Objective:
+Follow real-world SDLC practices before starting development.
+
+---
+
+## 🧠 Key Learnings
+- Applying DSA patterns is more effective than memorizing solutions
+- Prefix Sum and Kadane’s Algorithm are powerful for subarray problems
+- System design simplifies and speeds up frontend development
+- Consistency is key to steady improvement
+
+---
