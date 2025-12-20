@@ -174,3 +174,32 @@ Strengthen core algorithmic thinking
 -LeetCode:https://leetcode.com/u/pavithrabasavaraj/ 
 -HackerRank:https://www.hackerrank.com/profile/pavithrasbasava1
 
+----------------------------------------------------------------DAY-6----------------------------------------
+## 📘 DSA Practice (Completed)
+
+### 1️⃣ Find Number That Appears Once
+- Technique: XOR
+- Platforms:
+  - LeetCode: 136 – Single Number
+  - LeetCode: 137 – Single Number II
+  - HackerRank: Lonely Integer
+
+### 2️⃣ Longest Subarray with Sum = K
+- Technique: Prefix Sum + HashMap
+- Platforms:
+  - LeetCode: 560 – Subarray Sum Equals K
+  - LeetCode: 523 – Continuous Subarray Sum
+  - HackerRank: Subarray Division (Birthday Chocolate)
+
+### 3️⃣ Largest Subarray Sum
+- Technique: Kadane’s Algorithm
+- Platforms:
+  - LeetCode: 53 – Maximum Subarray
+  - HackerRank: The Maximum Subarray
+
+🎯 Focus:
+- Pattern-based problem solving
+- Optimized logic instead of brute force
+- Understanding time and space complexity
+
+---
