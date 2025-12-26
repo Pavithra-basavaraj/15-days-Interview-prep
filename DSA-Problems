@@ -174,7 +174,7 @@ Strengthen core algorithmic thinking
 -LeetCode:https://leetcode.com/u/pavithrabasavaraj/ 
 -HackerRank:https://www.hackerrank.com/profile/pavithrasbasava1
 
-----------------------------------------------------------------DAY-6----------------------------------------
+----------------------------------------------------------------DAY-5----------------------------------------
 ## 📘 DSA Practice (Completed)
 
 ### 1️⃣ Find Number That Appears Once
@@ -203,3 +203,21 @@ Strengthen core algorithmic thinking
 - Understanding time and space complexity
 
 ---
+---------------------------------------------------------------DAY-6------------------------------------
+## 📘 DSA Practice (Completed)
+
+### ✔ Problems Solved
+- **Two Sum**
+  - Technique: Hashing
+- **Sort an Array of 0s, 1s, and 2s**
+  - Technique: Dutch National Flag Algorithm
+- **Majority Element (> n/2 times)**
+  - Technique: Moore’s Voting Algorithm
+
+🎯 Focus:
+- Understanding optimal approaches
+- Writing interview-ready logic
+- Improving time & space complexity awareness
+
+---
+------------------------------------------------------------Day-7---------------------------------------------
