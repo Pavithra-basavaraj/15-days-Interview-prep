@@ -130,6 +130,10 @@ This project is open-source and free to use for learning and personal portfolio 
 Web Developer | Frontend Developer | Aspiring Full-Stack Developer
 ############################################ 📅 Day-Wise Progress (15-Day Plan)##########################
 ----------------------------------------------------------DAY-1--------------------------------------------
+
+This README documents my **Day 1** progress as part of my
+15-Day Interview Preparation Challenge, focusing on
+**Project Implementation, DSA, and Aptitude**.
 # Developer Portfolio Website – Day 1 Progress
 
 ## 📅 Day 1:Phase-1 Requirement Analysis & Research
@@ -180,6 +184,9 @@ Web Developer | Frontend Developer | Aspiring Full-Stack Developer
 - Early planning accelerates development and reduces rework.
 
 -----------------------------------------------------------DAY-2 and Day-3------------------------------------------
+This README documents my **Day 2-3** progress as part of my
+15-Day Interview Preparation Challenge, focusing on
+**Project Implementation, DSA, and Aptitude**.
 # Developer Portfolio Website – Day 2 Progress
 
 ## 📅 Day 2:Phase-2 SDLC Phase – Planning
@@ -229,6 +236,11 @@ Web Developer | Frontend Developer | Aspiring Full-Stack Developer
 - A well-defined SDLC roadmap helps track progress and maintain consistency.
 
 -----------------------------------------------------------DAY-4--------------------------------------------
+
+This README documents my **Day 4** progress as part of my
+15-Day Interview Preparation Challenge, focusing on
+**Project Implementation, DSA, and Aptitude**.
+
 ## 📅 Day-4 Phase-3 # 🛠 Project – System Design (Figma)
 
 The current stage of the project is **design and planning**, not implementation.
@@ -265,6 +277,11 @@ This project is a **personal portfolio website** built following **SDLC methodol
 ---
 
 -----------------------------------------------------------DAY-5------------------------------------------
+
+This README documents my **Day 5** progress as part of my
+15-Day Interview Preparation Challenge, focusing on
+**Project Implementation, DSA, and Aptitude**.
+
 ## 🎨 Project Work – Personal Portfolio (SDLC Phase 3)
 
 ### ✔ System Design Completed
@@ -293,5 +310,33 @@ Follow real-world SDLC practices before starting development.
 - Prefix Sum and Kadane’s Algorithm are powerful for subarray problems
 - System design simplifies and speeds up frontend development
 - Consistency is key to steady improvement
+
+-----------------------------------------------------DAY 6---------------------------------------------
+
+# 🚀 Day 6 – Interview Preparation Progress
+
+This README documents my **Day 6** progress as part of my
+15-Day Interview Preparation Challenge, focusing on
+**Project Implementation, DSA, and Aptitude**.
+
+## 🎨 Project Work – Personal Portfolio (SDLC Phase 4)
+
+### ✔ Frontend Implementation Started (HTML, CSS, JavaScript)
+
+- Converted **Home** and **About** pages from Figma design into code
+- Created clean HTML structure using semantic tags
+- Focused on:
+  - Proper sectioning and layout
+  - Reusable components (navbar, sections)
+  - Readable and maintainable code structure
+- Followed design consistency with Figma system design
+- Prepared base structure for remaining pages:
+  - Projects
+  - Skills
+  - Contact
+  - Resume
+
+🎯 Objective:
+Implement designs step-by-step following real-world frontend development practices.
 
 ---
