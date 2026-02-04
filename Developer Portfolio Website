@@ -339,4 +339,26 @@ This README documents my **Day 6** progress as part of my
 🎯 Objective:
 Implement designs step-by-step following real-world frontend development practices.
 
----
+--------------------------------------------------------------------------DAY-7--------------------------------------------
+🎨 Project Work – Personal Portfolio (SDLC Phase 4)
+
+✔ Frontend Development – Home Page (UI Refinement)
+Completed Home page implementation using:
+HTML (semantic structure)
+CSS (layout, spacing, alignment)
+Basic JavaScript (interactivity readiness)
+Improved spacing between logo and content for better visual balance
+Refined:
+Navbar alignment
+Content flow and section separation
+Readability and UI consistency
+Matched implementation closely with Figma design reference
+Ensured the Home page is:
+Clean
+Recruiter-friendly
+Ready for extension to other pages
+
+🎯 Objective
+Translate Figma design into a polished Home page
+Focus on UI spacing, structure, and clarity before moving to other pages
+Follow real-world frontend development flow (structure → style → behavior)
