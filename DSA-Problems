@@ -219,5 +219,33 @@ Strengthen core algorithmic thinking
 - Writing interview-ready logic
 - Improving time & space complexity awareness
 
----
 ------------------------------------------------------------Day-7---------------------------------------------
+## 📘 DSA Practice (Completed) on STRINGS
+
+1️⃣ Remove Outermost Parentheses
+Pattern: Greedy + Depth Counter
+Single pass traversal
+Make a local decision (keep / skip) based on current depth
+No backtracking, no extra stack
+
+2️⃣ Reverse Words in a String / Palindrome Check
+Pattern:
+Word-based string processing
+Two Pointer (for palindrome)
+
+3️⃣ Largest Odd Number in a String
+Pattern: Greedy + Single Pass
+Scan from right to left
+First odd digit guarantees the largest possible odd number
+Early stopping (greedy choice)
+
+4️⃣ Longest Common Prefix
+Pattern: Prefix Scanning / Horizontal Comparison
+Compare characters at the same index across all strings
+Stop immediately on mismatch
+No hashing or frequency counting involved
+
+🧠 Key Learning (Day 7)
+Many string problems follow repeatable patterns
+Greedy works when decisions are final and irreversible
+Prefix problems depend on position, not frequency
