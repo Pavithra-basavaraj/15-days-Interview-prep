@@ -250,8 +250,37 @@ Many string problems follow repeatable patterns
 Greedy works when decisions are final and irreversible
 Prefix problems depend on position, not frequency
 
+--------------------------------------------------------------------DAY-8--------------------------------------
+📘 Data Structures & Algorithms – Strings
+
+Problems Solved
+1. Isomorphic Strings
+Pattern Used: One-to-One Character Mapping
+Concept:
+Each character in the first string maps to exactly one character in the second string
+Mapping consistency checked using hashing
+
+2. Check Whether One String Is a Rotation of Another
+Pattern Used: String Relationship
+Concept:
+A rotated string must be a substring of (original + original)
+Efficient check without manual rotation
+
+3. Check If Two Strings Are Anagrams
+Pattern Used: Character Frequency
+Concept:
+Count frequency of characters
+Compare frequency maps for equality
+Key Learning (DSA)
+
+Different string problems require different thinking patterns such as:
+Mapping relationships
+Frequency counting
+String containment logic
+Using the correct pattern simplifies logic and improves performance.
+
 --------------------------------------------------------------------DAY-9---------------------------------------
-# 📘 Day X – DSA Practice (Strings & Stack Patterns)
+# 📘 Day 9 – DSA Practice (Strings & Stack Patterns)
 Solved the following interview-level problems by **identifying the correct pattern before coding**:
 
 ### ✅ Problems Solved
