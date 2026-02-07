@@ -249,3 +249,39 @@ No hashing or frequency counting involved
 Many string problems follow repeatable patterns
 Greedy works when decisions are final and irreversible
 Prefix problems depend on position, not frequency
+
+--------------------------------------------------------------------DAY-9---------------------------------------
+# 📘 Day X – DSA Practice (Strings & Stack Patterns)
+Solved the following interview-level problems by **identifying the correct pattern before coding**:
+
+### ✅ Problems Solved
+
+✔ **Sort Characters by Frequency** *(Easy)*  
+- **Pattern:** Character Frequency Counting + Sorting  
+- **Approach:**  
+  - Use HashMap to count character frequencies  
+  - Sort characters based on frequency  
+- **Key Focus:** Efficient data organization using hashing
+
+✔ **Maximum Nesting Depth of the Parentheses**  
+- **Pattern:** Stack / Depth Counter  
+- **Approach:**  
+  - Traverse string and track current depth  
+  - Maintain maximum depth reached  
+- **Key Focus:** Understanding balanced parentheses logic
+
+✔ **Roman to Integer**  
+- **Pattern:** Symbol Mapping + Greedy Traversal  
+- **Approach:**  
+  - Map Roman symbols to values  
+  - Compare current and next character to decide add/subtract  
+- **Key Focus:** Greedy decision-making with mappings
+
+## 🧠 Key DSA Learnings
+- String problems require **different thinking models**, not one generic solution  
+- Identifying the **right pattern** reduces complexity and bugs  
+- Hashing, counters, and greedy logic appear frequently in interviews
+
+📌 This practice is part of a **15-Day Interview Preparation Challenge**  
+covering **DSA, Aptitude, and Full-Stack Project Development**.
+
