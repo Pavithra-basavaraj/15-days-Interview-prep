@@ -362,3 +362,35 @@ Ready for extension to other pages
 Translate Figma design into a polished Home page
 Focus on UI spacing, structure, and clarity before moving to other pages
 Follow real-world frontend development flow (structure → style → behavior)
+
+------------------------------------------------------------------DAY-8-----------------------------------------
+🎨 Frontend Project – Developer Portfolio
+SDLC Phase: Implementation
+Work Completed
+Implemented the About page after the Home page
+Converted Figma design into HTML, CSS, and basic JavaScript
+
+Improved:
+Layout spacing
+Section flow
+Readability and visual consistency
+Learning Outcome
+Following a design-first approach (Figma → Code) reduces rework and improves UI clarity.
+
+------------------------------------------------------------DAY-9---------------------------------------------
+🎨 Frontend Project – Developer Portfolio Website
+SDLC Phase 4: Development
+
+✔ Education Page Implementation
+Completed the Education page after Home and About
+Converted Figma design → HTML, CSS, and JavaScript
+
+Focused on:
+Clean layout and spacing
+Clear educational timeline/content
+Consistent UI with previous pages
+Maintained single HTML, CSS, and JS structure
+
+🧠 Learning
+Structured sections improve readability
+Design-to-code workflow reduces rework
