@@ -314,3 +314,28 @@ Solved the following interview-level problems by **identifying the correct patte
 📌 This practice is part of a **15-Day Interview Preparation Challenge**  
 covering **DSA, Aptitude, and Full-Stack Project Development**.
 
+-----------------------------------------------------------------------DAY-10-----------------------------------------
+📅 Day 10 –DSA Practice
+📘 DSA Practice – Strings
+Solved pattern-based string problems by identifying the correct approach before coding.
+
+✅ Problems Covered
+
+1)Longest Palindromic Substring
+Approach: Expand Around Center
+Key Idea: Check palindromes from every possible center
+
+2)Count Number of Substrings
+Approach: Mathematical Observation / Sliding Window
+Key Idea: Count substrings efficiently without generating all possibilities
+
+3)Sum of Beauty of All Substrings
+Approach: Frequency Counting + Optimization
+
+Key Idea: Track max and min character frequencies for each substring
+
+🎯 Learning Outcome
+Improved pattern recognition in string problems
+Focused on optimal solutions instead of brute force
+Strengthened problem-solving logic for interviews
+
