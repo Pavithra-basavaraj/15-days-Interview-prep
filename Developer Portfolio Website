@@ -394,3 +394,31 @@ Maintained single HTML, CSS, and JS structure
 🧠 Learning
 Structured sections improve readability
 Design-to-code workflow reduces rework
+
+----------------------------------------------------DAY-10----------------------------------------------
+🎨 Frontend Project – Developer Portfolio Website
+📄 Feature Implemented: Resume Page
+
+SDLC Phase: Development
+The Resume page allows recruiters to:
+View my professional details
+Access my resume easily
+Understand my skills at a glance
+
+✅ Work Completed
+Designed and developed the Resume page
+Converted Figma design into real code
+
+Used:
+HTML5 for structure
+CSS3 for layout, spacing, and responsiveness
+JavaScript for interactivity
+Maintained visual consistency with:
+Home page
+About / Education pages
+
+🧠 Frontend Learnings
+Breaking UI into reusable sections simplifies development
+Design-first workflow reduces rework
+Clean spacing and alignment improve user experience
+Portfolio projects matter more than just certificates
