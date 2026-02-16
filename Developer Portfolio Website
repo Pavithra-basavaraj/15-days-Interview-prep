@@ -423,6 +423,28 @@ Design-first workflow reduces rework
 Clean spacing and alignment improve user experience
 Portfolio projects matter more than just certificates
 
+--------------------------------------------------------------DAY-11-------------------------------------------
+🎨 Frontend Project – Personal Portfolio
+Module: Contact Page
+SDLC Phase: Development (Phase 4)
+Implemented the Contact Page of my personal developer portfolio as part of the ongoing frontend project.
+
+✅ Features Implemented
+Section-based architecture for maintainability
+Contact information layout
+
+Contact form:
+Name input
+Message input
+Profile image placement
+Clear and accessible Call-To-Action (CTA) button
+
+🧠 Project Learnings
+Well-structured sections make large projects:
+Easier to scale
+Easier to debug
+Easier to maintain
+
 --------------------------------------------------------------------DAY-12------------------------------------------
 🎨 Developer Portfolio Project – Day 11
 Contact Page Development (SDLC Phase 4 – Development)
@@ -498,9 +520,12 @@ Uniform UI design across all pages
 Development Phase ✔️
 ➡️ Moving into Testing Phase
 
-🔍 Upcoming Testing Focus
-Cross-device responsiveness (mobile, tablet, desktop)
-UI consistency across all pages
-Accessibility & usability checks
-Minor layout refinements
-This transition marks a shift from building features to refining user experience.
+Applying SDLC concepts to real projects improves clarity and workflow
+
+🧩 SDLC Progress
+Phase	Status
+Planning	✅ Completed
+Design	✅ Completed
+Development	✅ In Progress
+Testing	⏳ Upcoming
+Deployment	⏳ Upcoming
