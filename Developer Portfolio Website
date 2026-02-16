@@ -422,3 +422,58 @@ Breaking UI into reusable sections simplifies development
 Design-first workflow reduces rework
 Clean spacing and alignment improve user experience
 Portfolio projects matter more than just certificates
+
+--------------------------------------------------------------------DAY-11------------------------------------------
+🎨 Developer Portfolio Project – Day 11
+Contact Page Development (SDLC Phase 4 – Development)
+
+This folder contains my Day 11 project work from the 15-Day Interview Preparation Challenge, focused on building the Contact Page of my personal developer portfolio.
+
+The objective was to apply clean UI structure, section-based architecture, and real-world frontend practices.
+
+🧩 Project Overview
+
+Project Name: Personal Developer Portfolio
+Page Implemented: Contact Page
+SDLC Phase: Phase 4 – Development
+
+This page allows users and recruiters to easily reach out, while maintaining consistency with the rest of the portfolio.
+
+✅ Work Completed
+📄 Contact Page Features
+Designed and implemented a dedicated Contact page
+Structured layout using section-based architecture
+Ensured visual consistency with:
+Home Page
+About Page
+Education Page
+
+🧱 Sections Implemented
+📍 Contact Information Section
+Clear and readable layout
+Easy access to basic contact details
+
+📝 Contact Form
+Name input field
+Message input field
+Simple and clean form structure
+
+🖼️ Profile Image Placement
+Proper alignment and spacing
+Balanced layout between form and visual elements
+
+🎯 Call-to-Action Button
+Clear “Contact Me” action
+Placed for maximum visibility and usability
+
+🧠 Project Learnings
+Section-based UI design makes large projects scalable
+Clean structure simplifies future feature additions
+Consistent spacing and alignment improve overall UX
+Developing one page at a time improves maintainability
+
+🛠️ Tech Stack Used
+HTML – Semantic structure
+CSS – Layout, spacing, responsiveness
+JavaScript – Basic interactivity
+Design Reference: Figma
