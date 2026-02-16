@@ -378,5 +378,29 @@ Edge Cases:
 🚀 Consistency over intensity. One step closer to mastering DSA.
 
 -------------------------------------------DAY-12--------------------------------------
+📘 Day 12 – DSA Practice
+Topic: Singly Linked List (Traversal Basics)
 
+Focused on strengthening core Linked List fundamentals using traversal-based problems.
+
+✅ Problems Solved
+
+Find the Length of a Linked List
+→ Traversed the list and counted nodes
+→ Understood how iteration works internally
+
+Search in a Singly Linked List
+→ Linear search using pointer traversal
+→ Handled edge cases (empty list, value not found)
+
+🎯 Key Focus
+Building intuition for pointer movement
+Understanding traversal instead of memorizing code
+
+⏱ Complexity
+Time: O(n)
+Space: O(1)
+
+📌 Difficulty
+Easy (Interview-important fundamentals)
 
