@@ -339,3 +339,41 @@ Improved pattern recognition in string problems
 Focused on optimal solutions instead of brute force
 Strengthened problem-solving logic for interviews
 
+------------------------------- DAY 11 --------------------------------
+
+📅 Day 11 – DSA Practice
+📘 DSA Practice – Singly Linked List (Foundations)
+
+✅ Problems Covered
+1) Introduction to Singly Linked List  
+Key Concepts:
+• Node structure (data + next pointer)  
+• Traversal of linked list  
+• Understanding dynamic memory behavior  
+
+2) Insertion at the Head of Linked List  
+Approach:
+• Create a new node  
+• Point new node to current head  
+• Update head reference  
+
+Edge Cases:
+• Empty linked list  
+• Single-node list  
+
+3) Deletion of the Head of Linked List  
+Approach:
+• Move head pointer to the next node  
+• Safely handle memory and edge cases  
+
+Edge Cases:
+• Single-node list  
+• Null list  
+
+🎯 Learning Outcome
+• Strong understanding of pointer manipulation  
+• Improved clarity on how linked lists work internally  
+• Built a solid base for advanced Linked List problems  
+
+🚀 Consistency over intensity. One step closer to mastering DSA.
+
